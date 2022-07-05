@@ -1,3 +1,3 @@
-# github-jktmmh
+# github-vite
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-vite)
+[Правка на StackBlitz ⚡️](https://stackblitz.com/edit/github-vite)
